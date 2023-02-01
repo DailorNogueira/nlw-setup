@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar rastrear os habitos.
 
-- [Visite o projeto online](https://dailornogueira.github.io/nwl-setup)
+- [Visite o projeto online](https://dailornogueira.github.io/nlw-setup)
 
 ## 🔖 Layout
 
